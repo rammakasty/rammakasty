@@ -1,6 +1,5 @@
 <div align=center>
-안녕하세요. 리액트를 공부하고 있는 rammakasty 입니다.
-	
+I am ramma, who dreams of becoming a front-end developer.
 	
 <div align=center>
 	
