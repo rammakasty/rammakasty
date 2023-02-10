@@ -1,5 +1,5 @@
 <div align=center>
-### #람마까스띠의 깃허브에 오신 것을 환영합니다.
+### 람마까스띠의 깃허브에 오신 것을 환영합니다.
 	</div>
 <div align=center>
 
