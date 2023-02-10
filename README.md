@@ -1,10 +1,4 @@
 
-	<div align=center>
-	
-	![corgi-g42162ca0f_1920](https://user-images.githubusercontent.com/25074165/218217056-78f89c95-cfd8-4900-ad5a-321e8d7181b0.jpg)
-
-	</
-	
 	
 	
 <div align=center>
