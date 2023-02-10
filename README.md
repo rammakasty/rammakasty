@@ -15,7 +15,9 @@
 <p>✨ Platforms & Languages ✨</p>
 
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -30,8 +32,8 @@
 
 
 <br>
-
-
+<br>
+<br>
 
 
 
@@ -50,6 +52,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
 </div>
+
+<br>
+<br>
+<br>
 
 
 
