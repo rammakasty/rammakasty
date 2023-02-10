@@ -1,4 +1,5 @@
-
+<div align=center>
+안녕하세요. 리액트를 공부하고 있는 rammakasty 입니다.
 	
 	
 <div align=center>
