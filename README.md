@@ -1,7 +1,7 @@
 
 
 <div align=center>
-I am ramma, who dreams of becoming a front-end developer.
+<p1> hello, I am studying React and targeting front-end developers. </p1>
 	
 <div align=center>
 	
