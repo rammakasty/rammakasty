@@ -1,8 +1,7 @@
 
 
 <div align=center>
-<p1> hello, I am studying React and targeting front-end developers. </p1>
-	
+<p1> hello, I am studying React and I'll be a front-end developer.
 <div align=center>
 	
 	
