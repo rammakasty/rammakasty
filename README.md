@@ -1,7 +1,7 @@
 
 
 <div align=center>
-<p1> hello, I am studying React and I'll be a front-end developer.
+<p1> hello, I am studying Node.js and I'll be a Back-end developer.
 <div align=center>
 	
 	
@@ -24,7 +24,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 </div>
 
