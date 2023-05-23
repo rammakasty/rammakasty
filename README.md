@@ -4,16 +4,12 @@
 <p1> hello, I am studying Node.js and I'll be a Back-end developer.
 <div align=center>
 	
-<br><br><br><br><br><br>
+<br><br><br><br>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhe226&layout=compact)](https://github.com/jhe226/github-readme-stats)
+	
+<br><br><br><br>
 
-	
-	
-<br><br><br><br><br><br>
-	
-	
-	
 	
 <h3>📚 Tech Stack 📚</h3>
 
