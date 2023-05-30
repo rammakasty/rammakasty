@@ -1,7 +1,7 @@
 
 
 <div align=center>
-<p1> hello, I am studying Node.js and I'll be a Back-end developer.
+<p1> hello, I am studying Node.js 
 <div align=center>
 	
 <br><br><br><br>
