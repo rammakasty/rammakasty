@@ -1,7 +1,7 @@
 
 
 <div align=center>
-console.log('node.js를 공부하고 있습니다.');
+<p>안녕하세요. Node.js를 공부하고 있는 최하영입니다.</p>
 <div align=center>
 	
 <br>
