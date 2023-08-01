@@ -10,7 +10,7 @@
 	
 <br><br><br><br>
 
-	
+<div align="center">	
 <h3>📚 Tech Stack 📚</h3>
 
 <p>✨ Platforms & Languages ✨</p>
