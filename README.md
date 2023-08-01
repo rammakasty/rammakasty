@@ -1,8 +1,14 @@
 
+
+<div align=center>
+<p>안녕하세요. Node.js를 공부하고 있습니다.</p>
+<div align=center>
+	
+<br>
 	
 
 	
-
+<br><br><br><br>
 
 	
 <h3>📚 Tech Stack 📚</h3>
@@ -21,13 +27,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
 
 </div>
 
