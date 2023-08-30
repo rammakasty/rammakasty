@@ -1,5 +1,8 @@
 
-### #rammakasty의 깃허브에 오신 것을 환영합니다.
+
+<div align=center>
+### rammakasty의 깃허브에 오신 것을 환영합니다.
+<div align=center>
 	
 <br>
 	
