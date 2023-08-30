@@ -1,8 +1,5 @@
 
-
-<div align=center>
-<p>안녕하세요. Node.js를 공부하고 있습니다.</p>
-<div align=center>
+### #rammakasty의 깃허브에 오신 것을 환영합니다.
 	
 <br>
 	
