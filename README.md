@@ -82,7 +82,7 @@ rammakasty의 깃허브에 오신 것을 환영합니다.
 <div align=center>
 
 
-<a href="https://https://youngtech.tistory.com/">
+<a href="https://youngtech.tistory.com/">
 
 <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 
