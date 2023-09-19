@@ -94,11 +94,6 @@ rammakasty의 깃허브에 오신 것을 환영합니다.
 
 </a>
 
-<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-
-</a>
 
 <br>
 
